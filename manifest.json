@@ -1,0 +1,15 @@
+{
+  "name": "Tammela beacon",
+  "short_name": "Tammela beacon",
+  "start_url": "/?homescreen=1",
+  "display": "standalone",
+  "theme_color": "#313131",
+  "background_color": "#313131",
+  "icons": [
+    {
+      "src": "images/manifest/icon-beacon-270x270.png",
+      "sizes": "270x270",
+      "type": "image/png"
+    }
+  ]
+}
